@@ -1,18 +1,18 @@
 # Hi, I'm Sergio 👋
 
 **Grid operations → data engineering.** I spent four years operating Spain's
-national electricity transmission grid in real time — now I build the kind of
+national electricity transmission grid in real time. Now I build the kind of
 data pipelines I used to depend on in the control room.
 
 🎯 **Looking for:** Data Engineer / Analytics Engineer roles in **Switzerland**
 (Zurich · Basel · Bern · Swiss-remote)
-🇪🇺 **EU citizen (Spanish)** — no work permit needed for Switzerland; relocating to Switzerland
+🇪🇺 **EU citizen (Spanish)** : no work permit needed for Switzerland; based in Switzerland
 
 ---
 
 ## 🔭 What I'm building
 
-### [solar-analytics](https://github.com/sergio-corredor-llopis/solar-analytics) — end-to-end solar performance analytics platform
+### [solar-analytics](https://github.com/sergio-corredor-llopis/solar-analytics) : end-to-end solar performance analytics platform
 
 An ELT pipeline over **14M+ rows** of photovoltaic telemetry: **13 PV systems,
 10 years of readings (Feb 2013 – Dec 2023)**.
@@ -23,25 +23,25 @@ An ELT pipeline over **14M+ rows** of photovoltaic telemetry: **13 PV systems,
 - **Transformation:** dbt Cloud with staging → intermediate → marts layering, plus dbt tests
 - **Warehouse:** BigQuery — time-grain-aggregated fact tables (daily / monthly / annual), 50+ calculated metrics per daily row
 - **Performance engineering:** solar KPIs computed per **IEC 61724**
-- **Validation:** results checked against a university benchmark — **0.003% deviation**, with 5 data-quality bugs caught and fixed along the way
+- **Validation:** results checked against a university benchmark : **0.003% deviation**, with 5 data-quality bugs caught and fixed along the way
 - **Front-end:** Streamlit dashboard
 
 ## ⚡ Where I come from
 
-**Transmission Operator (Data & Analytics Focus) at Red Eléctrica (REE)** — Spain's national grid
-operator (TSO) — for 4 years. Real-time operation of high-voltage grid
+**Transmission Operator (Data & Analytics Focus) at Red Eléctrica (REE)** : Spain's national grid
+operator (TSO) for 4 years. Real-time operation of high-voltage grid
 telemetry: load curves, generation schedules, balancing, cross-border
 exchanges, across 1,500+ substations under ENTSO-E discipline. I also built
-internal operations tooling that my colleagues used daily — which is what
+internal operations tooling that my colleagues used daily, which is what
 pulled me from operating data systems to engineering them.
 
 Why it transfers: grid operations is data work where being wrong is not an
-option. Validation, lineage, and observability aren't best practices there —
+option. Validation, lineage, and observability aren't best practices there :
 they're survival. That's the instinct I bring to data engineering.
 
 ## 📜 Certifications
 
-- **AWS Certified Solutions Architect – Associate** (Feb 2026)
+- **AWS Certified Solutions Architect : Associate** (Feb 2026)
 - **dbt Fundamentals** (Mar 2026)
 
 ## 🛠️ Stack
@@ -65,4 +65,4 @@ Spanish (native) · English (C2) · French (B1) · German (A2, actively studying
 
 - LinkedIn: [linkedin.com/in/sergio-corredor-llopis](https://www.linkedin.com/in/sergio-corredor-llopis)
 
-*BSc Electrical Engineering, Universidad Politécnica de Madrid (UPM) · Based in Madrid, relocating to Switzerland*
+*BSc Electrical Engineering, Universidad Politécnica de Madrid (UPM) · Based in Basel*
